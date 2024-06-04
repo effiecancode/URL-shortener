@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{581B4976-EA81-441E-BDC4-AE4DE0FF1A62}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/ApplicationDbContext.cs">
+    <Files>
+      <File FileName="Areas/Identity/Pages/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Data/ApplicationDbContext.cs" Line="19" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UrlRedirector">
+            <Node name="UrlRedirector">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True">
+                  <Node name="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Data" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UrlRedirector PreferredExecutionTarget="/Applications/Firefox.app" />
+</Properties>
