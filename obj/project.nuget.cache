@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e8CB8puL3wLsdjxp+SAYS7RIwWaTiz1jgtUnVf76MwMfesnqXoQNoTJWtkADuAWO73SCoEsl+QS8H+9aCFNHgw==",
+  "dgSpecHash": "3OFivecJDq1KEbBvRTXfHgLoZMvm2l7R2j2QJ+r0CEnRr+EAqjkaR5Dta8Z8vMRnVUG0dVPXiWCYslRdAPbbEA==",
   "success": true,
-  "projectFilePath": "/Users/mac/dotnet-immersionday-samples/url-shortener/UrlRedirector.csproj",
+  "projectFilePath": "/Users/mac/cloudEngineering/URL-shortener/UrlRedirector.csproj",
   "expectedPackageFiles": [
     "/Users/mac/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/mac/.nuget/packages/microsoft.aspnetcore.cryptography.internal/6.0.13/microsoft.aspnetcore.cryptography.internal.6.0.13.nupkg.sha512",

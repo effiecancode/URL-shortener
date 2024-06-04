@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mac/dotnet-immersionday-samples/url-shortener/UrlRedirector.csproj": {}
+    "/Users/mac/cloudEngineering/URL-shortener/UrlRedirector.csproj": {}
   },
   "projects": {
-    "/Users/mac/dotnet-immersionday-samples/url-shortener/UrlRedirector.csproj": {
+    "/Users/mac/cloudEngineering/URL-shortener/UrlRedirector.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/dotnet-immersionday-samples/url-shortener/UrlRedirector.csproj",
+        "projectUniqueName": "/Users/mac/cloudEngineering/URL-shortener/UrlRedirector.csproj",
         "projectName": "UrlRedirector",
-        "projectPath": "/Users/mac/dotnet-immersionday-samples/url-shortener/UrlRedirector.csproj",
+        "projectPath": "/Users/mac/cloudEngineering/URL-shortener/UrlRedirector.csproj",
         "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/dotnet-immersionday-samples/url-shortener/obj/",
+        "outputPath": "/Users/mac/cloudEngineering/URL-shortener/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mac/.nuget/NuGet/NuGet.Config"

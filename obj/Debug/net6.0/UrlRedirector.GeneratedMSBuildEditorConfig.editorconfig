@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UrlRedirector
 build_property.RootNamespace = UrlRedirector
-build_property.ProjectDir = /Users/mac/dotnet-immersionday-samples/url-shortener/
+build_property.ProjectDir = /Users/mac/cloudEngineering/URL-shortener/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/mac/dotnet-immersionday-samples/url-shortener
+build_property.MSBuildProjectDirectory = /Users/mac/cloudEngineering/URL-shortener
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/mac/dotnet-immersionday-samples/url-shortener/Areas/Identity/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/mac/cloudEngineering/URL-shortener/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mac/dotnet-immersionday-samples/url-shortener/Views/Home/Index.cshtml]
+[/Users/mac/cloudEngineering/URL-shortener/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mac/dotnet-immersionday-samples/url-shortener/Views/Home/Privacy.cshtml]
+[/Users/mac/cloudEngineering/URL-shortener/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mac/dotnet-immersionday-samples/url-shortener/Views/RedirectAdmin/AddRedirectPartial.cshtml]
+[/Users/mac/cloudEngineering/URL-shortener/Views/RedirectAdmin/AddRedirectPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVkaXJlY3RBZG1pbi9BZGRSZWRpcmVjdFBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mac/dotnet-immersionday-samples/url-shortener/Views/RedirectAdmin/Index.cshtml]
+[/Users/mac/cloudEngineering/URL-shortener/Views/RedirectAdmin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVkaXJlY3RBZG1pbi9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mac/dotnet-immersionday-samples/url-shortener/Views/RedirectAdmin/_ViewImports.cshtml]
+[/Users/mac/cloudEngineering/URL-shortener/Views/RedirectAdmin/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVkaXJlY3RBZG1pbi9fVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mac/dotnet-immersionday-samples/url-shortener/Views/Shared/Error.cshtml]
+[/Users/mac/cloudEngineering/URL-shortener/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mac/dotnet-immersionday-samples/url-shortener/Views/Shared/_Layout.cshtml]
+[/Users/mac/cloudEngineering/URL-shortener/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mac/dotnet-immersionday-samples/url-shortener/Views/Shared/_LoginPartial.cshtml]
+[/Users/mac/cloudEngineering/URL-shortener/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mac/dotnet-immersionday-samples/url-shortener/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/mac/cloudEngineering/URL-shortener/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mac/dotnet-immersionday-samples/url-shortener/Views/_ViewImports.cshtml]
+[/Users/mac/cloudEngineering/URL-shortener/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mac/dotnet-immersionday-samples/url-shortener/Views/_ViewStart.cshtml]
+[/Users/mac/cloudEngineering/URL-shortener/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
