@@ -1,2 +1,2 @@
 # net-url-shortener
-.NET URL Shortener
+.NET URL-Shortener

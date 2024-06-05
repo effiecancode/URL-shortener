@@ -72,7 +72,7 @@ namespace AspNetCoreTodo
         private void configureSqlLite(IServiceCollection services, string fileName)
         {
             var tempFolder = Path.GetTempPath();
-            var filePath = Path.Join (_env.ContentRootPath, fileName);            
+            var filePath = Path.Join (_env.ContentRootPath, fileName);
 
             var destinationPath = tempFolder + "test.sqlite.db";
             if(!File.Exists(destinationPath))
@@ -95,7 +95,7 @@ namespace AspNetCoreTodo
            services.AddRazorPages();
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        //This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
 
